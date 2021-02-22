@@ -1,0 +1,20 @@
+Nagyvárosban a belvárosban nemrég épült irodaházban a 3. emeleten egymással szembeni 2 iroda:
+A,
+-Épület jellege: Új építésű, nem áll védelem alatt
+-Nyáron nagy meleg van --> hűtés szükséges
+-Por: Elenyésző
+-220W, konnektor, csatlakozók
+-Fa/csillag topológia, UTP/Coax/Kereszt/ kábelek
+----------------------------------------------------------------------
+B,
+-Használják: 10-en
+-Szoftver: Cisco, Hardver: Router, switch, pc, printer, stb...
+-Csúcsidőszak: 8h-16h-ig
+-Heti 1 értekezlet
+-Nyugodt periódusok: Heti 1 távmunka(VPN)
+-10-en használják Nem kell többfelhasználós op rendszer
+-Kell hálózati beléptetés
+-10.000.000Ft költségvetés
+-Van igény vezeték nélküli hálózatra
+-Levelező/Fájl/Web szerver, napi backup
+-Kiemelt rendszerekhez kell szünetmentes --> 1.000.000Ft
