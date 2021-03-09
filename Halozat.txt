@@ -7,12 +7,12 @@ A,
 -Fa/csillag topológia, UTP/Coax/Kereszt/ kábelek
 ----------------------------------------------------------------------
 B,
--Használják: 10-en
+-Használják: 30-an
 -Szoftver: Cisco, Hardver: Router, switch, pc, printer, stb...
 -Csúcsidőszak: 8h-16h-ig
 -Heti 1 értekezlet
 -Nyugodt periódusok: Heti 1 távmunka(VPN)
--10-en használják Nem kell többfelhasználós op rendszer
+-30-an használják Nem kell többfelhasználós op rendszer
 -Kell hálózati beléptetés
 -3.000.000Ft költségvetés
 -Van igény vezeték nélküli hálózatra
