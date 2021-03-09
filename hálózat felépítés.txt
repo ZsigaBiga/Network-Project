@@ -1,0 +1,7 @@
+- 60 gép - 20/20/20 alhálozatok /27-es alhálózatok
+- 1 Router - min 3 switch - még bővíthető ha kutymalálni akarunk valamit
+- Szerver: DHCP min 60 felhasználót szolgáljon ki
+- Switch, Router, Szerver configuráció
+- 192.168.#.#/27, 255.255.255.224
+- Gateway 192.168.0.63
+- Telnet, SSH
