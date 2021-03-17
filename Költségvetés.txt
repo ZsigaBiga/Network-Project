@@ -1,16 +1,16 @@
-30 gép - 10/10/10 alhálozatok /28-es alhálózatok				
-1 Router - min 3 switch - még bõvíthetõ ha kutym				
-Szerver: DHCP min 60 felhasználót szolgáljon ki				
-Switch, Router, Szerver configuráció				
+30 gÃ©p - 10/10/10 alhÃ¡lozatok /28-es alhÃ¡lÃ³zatok				
+1 Router - min 3 switch - mÃ©g bÅ‘vÃ­thetÅ‘ ha kutym				
+Szerver: DHCP min 30 felhasznÃ¡lÃ³t szolgÃ¡ljon ki				
+Switch, Router, Szerver configurÃ¡ciÃ³				
 192.168.#.#/27, 255.255.255.224				
 Gateway 192.168.0.63				
 Telnet, SSH				
 				
-Micsoda	Mennyi	Egyéb	Mennyiszer	
+Micsoda	Mennyi	EgyÃ©b	Mennyiszer	
 3 2950T switch - 3 * 60.000Ft = 	 60 000 Ft 	Switch	3	
 1 2911 Router =	 400 000 Ft 	Routerek	1	
-5e kategóriájú kábel UTP LSZH, Szürke hossz: 15m =	 380 Ft 	Eddigi méterek:	120	
+5e kategÃ³riÃ¡jÃº kÃ¡bel UTP LSZH, SzÃ¼rke hossz: 15m =	 380 Ft 	Eddigi mÃ©terek:	120	
 				
 				
-Teljes költség:	 625 600 Ft 			
+Teljes kÃ¶ltsÃ©g:	 625 600 Ft 			
 Mennyi maradt?	 2 374 400 Ft 			
