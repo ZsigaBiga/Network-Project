@@ -1,0 +1,2 @@
+RMAIN, enable password: admin
+RMAIN, username admin password admin
